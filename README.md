@@ -9,7 +9,15 @@ Learn how to use UI frameworks like Streamlit, Gradio, Dash, and more to build a
 - For Rapid Data App Prototypes: Use Streamlit.
 - For Enterprise-Grade, Highly Custom Dashboards: Choose Dash.
 - For Jupyter-Centric Workflows: Try Voila or Panel.
-- For Advanced AI/LLM Apps: Consider Chainlit or Taipy. 
+- For Advanced AI/LLM Apps: Consider Chainlit or Taipy.
+
+### Simple AI Apps: You Must Build In 2026
+
+1. Personal RAG Assistant
+2. AI Code Explainer
+3. YouTube Script Generator
+4. AI Data Explorer
+5. Resume: Job Match Analyzer
 
 ## Key Frameworks Compared
 

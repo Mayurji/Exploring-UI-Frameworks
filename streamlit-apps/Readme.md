@@ -27,14 +27,6 @@ df
 streamlit run your_script.py [-- script args]
 ```
 
-### Simple AI Apps With Streamlit: You Must Build In 2026
-
-1. Personal RAG Assistant
-2. AI Code Explainer
-3. YouTube Script Generator
-4. AI Data Explorer
-5. Resume: Job Match Analyzer
-
 ### Tip: You can also pass URL of the script
 
 ```
