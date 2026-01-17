@@ -1,4 +1,4 @@
-### Building Real-Time Object Detection With Gradio
+### 📸 Building Real-Time Object Detection With Gradio
 
 In this tutorial, we will build a real-time object detection application using Gradio.
 
