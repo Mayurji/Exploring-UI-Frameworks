@@ -26,3 +26,17 @@ curl -fsSL https://ollama.com/install.sh | sh
 ollama pull nomic-embed-text
 ollama pull gemma3
 ```
+
+### Adding Streamlit-Authentication
+
+To add authorization to your Streamlit app, we can use the streamlit-authenticator library. It is the community standard because it provides:
+
+- Secure password hashing (bcrypt).
+- Cookie-based session management (so users stay logged in).
+- A pre-built, polished login widget.
+- Easy configuration via a YAML file or dictionary.
+
+```bash
+streamlit-authenticator
+pyyaml
+```

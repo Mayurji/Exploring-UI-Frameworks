@@ -1,0 +1,12 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      name: Admin User
+      password: $2b$12$yTfxVtSGix9.SktAJqSEYO1XXladXKO75Jebms2dJTyBE9hoCO73C
+cookie:
+  expiry_days: 30
+  key: random_signature_key_rag_app
+  name: rag_assistant_cookie
+preauthorized:
+  emails: []
